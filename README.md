@@ -1,5 +1,5 @@
 # Hotel-management
-Using C# to create a basic hotel management contain:
+Using C# with Visual Studio IDE to create a basic hotel management contain:
 - Register
 - Login
 - Order room
