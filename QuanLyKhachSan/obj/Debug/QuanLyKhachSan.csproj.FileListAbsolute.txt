@@ -1,0 +1,137 @@
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangkyThongTin.resources
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DATPHONG.resources
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyNhanVien.resources
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong.resources
+E:\Fundametal of computing\1 . ĐỒ ÁN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong2.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangkyThongTin.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DATPHONG.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong2.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyNhanVien.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.ThongTinHoaDon.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+D:\Work\coding\C#\okbaimoi\QuanLyKhachSan - Test\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.TinhTIen.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangkyThongTin.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DATPHONG.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong2.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyNhanVien.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.ThongTinHoaDon.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.TinhTIen.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Work\coding\C#\okbaimoi\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangkyThongTin.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DATPHONG.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong2.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyNhanVien.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.ThongTinHoaDon.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.TinhTIen.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\Fundametal of computing\OKXONGROI\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangkyThongTin.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DATPHONG.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong2.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyNhanVien.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.ThongTinHoaDon.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.TinhTIen.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\đồ án funda\QLKS - complete\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangkyThongTin.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DATPHONG.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong2.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyNhanVien.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.ThongTinHoaDon.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.TinhTIen.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\đồ án funda\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangkyThongTin.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DATPHONG.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MenuTong2.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyNhanVien.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.ThongTinHoaDon.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QUANLYKHACHSAN_TRAPHONG.TinhTIen.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Work\coding\QLKS - complete - Copy\QLKS - complete\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
